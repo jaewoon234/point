@@ -1,51 +1,25 @@
-# Welcome to your Expo app 👋
+#point App
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+간단한 포인트 내역 조회 및 적립 앱
 
-## Get started
+#기능
+더미 계정 로그인 (ID: "test", PW: "1234")
+포인트 내역 리스트 표시 (더미 데이터)
+포인트 적립 버튼
+로그아웃
 
-1. Install dependencies
+#사양
+npm
+Expo Go
 
-   ```bash
-   npm install
-   ```
+#실행(로컬)
+저장소 클론 또는 저장
+그후 저장된 파일에서 npm install
+npm run android로 실행
 
-2. Start the app
+#추가 기능 아이디어
+실제 백엔드 연동하여 로그인 및 백엔드 운용 용이
+포인트 사용 기능 및 거래 내역 추가
 
-   ```bash
-   npx expo start
-   ```
-
-In the output, you'll find options to open the app in a
-
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
-
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
-# point
+앱 설치 시 제공된 apk 파일 실행 해주시면 됩니다.
+https://expo.dev/accounts/jaewoon234/projects/test_app/builds/af1477c5-2a9d-4ab4-8417-4bd54d1dbe1f
