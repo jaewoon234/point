@@ -22,4 +22,6 @@ npm run android로 실행
 포인트 사용 기능 및 거래 내역 추가
 
 앱 설치 시 제공된 apk 파일 실행 해주시면 됩니다.
+
+🤖 Open this link on your Android devices (or scan the QR code) to install the app:
 https://expo.dev/accounts/jaewoon234/projects/test_app/builds/af1477c5-2a9d-4ab4-8417-4bd54d1dbe1f
